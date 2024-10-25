@@ -1,0 +1,1 @@
+This project involves web scraping job listings from pracuj.pl to gather information on various job postings (in the data science field), including job titles, company names, locations, and other relevant details. 
